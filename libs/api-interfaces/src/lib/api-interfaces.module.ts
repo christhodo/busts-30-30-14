@@ -14,7 +14,7 @@ export interface User {
 export const emptyBust = {
   id: '',
   name: '',
-  postion: '',
+  position: '',
   adp: '',
   comments: '',
 };
